@@ -9,4 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     //commit 1 0911
+    //commit 2 0912
 }
